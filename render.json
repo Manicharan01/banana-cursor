@@ -82,5 +82,13 @@
       { "match": "#FCD900", "replace": "#F6C177" },
       { "match": "#6D3C1B", "replace": "#1F1D2E" }
     ]
+  },
+  "Banana-Nord": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Nord",
+    "colors": [
+      { "match": "#FCD900", "replace": "#EBCB8B" },
+      { "match": "#6D3C1B", "replace": "#2E3440" }
+    ]
   }
 }

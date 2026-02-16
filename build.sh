@@ -41,6 +41,7 @@ names["Banana-Tokyo-Night-Storm"]=$(with_version "The TokyoNight Strom Banana")
 names["Banana-Tokyo-Night-Night"]=$(with_version "The TokyoNight Night Banana")
 names["Banana-GruvBox"]=$(with_version "The GruvBox Banana")
 names["Banana-Rose-Pine"]=$(with_version "The Rose Pine Banana")
+names["Banana-Nord"]=$(with_version "The Nord Banana")
 
 # Cleanup old builds
 rm -rf themes bin
