@@ -34,11 +34,13 @@ names["Banana"]=$(with_version "The Banana")
 names["Banana-Green"]=$(with_version "The Green Banana")
 names["Banana-Blue"]=$(with_version "The Blue Banana")
 names["Banana-Red"]=$(with_version "The Red Banana")
-names["Banana-Catppuccin-Mocha"]=$(with_version "The Red Banana")
-names["Banana-Hacker"]=$(with_version "The Red Banana")
-names["Banana-Dracula"]=$(with_version "The Red Banana")
-names["Banana-Tokyo-Night-Storm"]=$(with_version "The Red Banana")
-names["Banana-GruvBox"]=$(with_version "The Red Banana")
+names["Banana-Catppuccin-Mocha"]=$(with_version "The Catppuccin Mocha Banana")
+names["Banana-Hacker"]=$(with_version "The Hacker Banana")
+names["Banana-Dracula"]=$(with_version "The Dracula Banana")
+names["Banana-Tokyo-Night-Storm"]=$(with_version "The TokyoNight Strom Banana")
+names["Banana-Tokyo-Night-Night"]=$(with_version "The TokyoNight Night Banana")
+names["Banana-GruvBox"]=$(with_version "The GruvBox Banana")
+names["Banana-Rose-Pine"]=$(with_version "The Rose Pine Banana")
 
 # Cleanup old builds
 rm -rf themes bin
